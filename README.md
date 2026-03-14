@@ -1,16 +1,17 @@
-# covid_tracker_app_flutter
+# COVID-19 Tracker App
 
-A new Flutter project.
+A simple **COVID-19 Tracker App** built with Flutter that displays real-time global and country-wise COVID-19 statistics using a public API.
 
-## Getting Started
+## Features
+- Global COVID-19 statistics
+- Country-wise data
+- Clean and responsive UI
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- REST API
 
-A few resources to get you started if this is your first Flutter project:
+## Author
+Muhammad Tahir
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
